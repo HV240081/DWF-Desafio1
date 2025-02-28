@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2aeef7d9-abf9-488c-808a-e03c74c8c2fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/src/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/src/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/contador/src/app/page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/src/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/src/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/login/src/app/page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/src/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/src/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Analisis2/temperatura/src/app/page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/repository/domain/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/repository/domain/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/service/implementation/MovieServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DWF Laboratorio/Guia02/spring-di/src/main/java/sv/edu/udb/service/implementation/MovieServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DWF Laboratorio/Guia04/spring-database-jpa/src/main/java/sv/edu/udb/spring_database_jpa/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DWF Laboratorio/Guia04/spring-database-jpa/src/main/java/sv/edu/udb/spring_database_jpa/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DWF Laboratorio/Guia04/spring-database-jpa/src/main/java/sv/edu/udb/spring_database_jpa/repository/domain/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DWF Laboratorio/Guia04/spring-database-jpa/src/main/java/sv/edu/udb/spring_database_jpa/repository/domain/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DWF Laboratorio/Guia04/spring-database-jpa/src/main/java/sv/edu/udb/spring_database_jpa/repository/domain/PostComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DWF Laboratorio/Guia04/spring-database-jpa/src/main/java/sv/edu/udb/spring_database_jpa/repository/domain/PostComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/app/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/app/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/app/page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guia4_Complementaria/cart-react/src/components/ProductList.jsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tgIX8flZHlY67YdqxjIxg1lJal" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Desafio1-DWF [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Desafio1DwfApplication.executor": "Run",
+    "git-widget-placeholder": "guia04",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/OneDrive/Escritorio/Desafio1-DWF/Desafio1-DWF",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\OneDrive\Escritorio\Desafio1-DWF\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\OneDrive\Escritorio\Desafio1-DWF\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Desafio1DwfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Desafio1-DWF" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sv.edu.udb.Desafio1_DWF.Desafio1DwfApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aeef7d9-abf9-488c-808a-e03c74c8c2fd" name="Changes" comment="" />
+      <created>1740767328195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740767328195</updated>
+      <workItem from="1740767329251" duration="5271000" />
+      <workItem from="1740781549953" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
