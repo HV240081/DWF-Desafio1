@@ -7,5 +7,5 @@ VALUES
 INSERT INTO inscripciones (nombre_deportista, documento_identificacion, telefono, evento_id, edad_deportista, condicion_medica)
 VALUES
     ('Juan Pérez', '00000000-0', '+50377778888', 1, 14, FALSE),
-    ('María López', 'A12345678', '+50366665555', 2, 25, TRUE),
-    ('Carlos Gómez', 'B98765432', '+50344443333', 3, 20, FALSE);
+    ('María López', '01234567-8', '+50366665555', 2, 25, TRUE),
+    ('Carlos Gómez', '09876543-2', '+50344443333', 3, 20, FALSE);

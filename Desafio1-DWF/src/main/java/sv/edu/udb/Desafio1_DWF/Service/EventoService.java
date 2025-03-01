@@ -19,4 +19,8 @@ public class EventoService {
     public List<Evento> listarEventos() {
         return eventoRepository.findAll();
     }
+
+    public void eliminarEvento(Integer id) {
+        eventoRepository.deleteById(id);
+    }
 }

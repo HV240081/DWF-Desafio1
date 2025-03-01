@@ -19,4 +19,8 @@ public class InscripcionService {
     public List<Inscripcion> listarInscripciones() {
         return inscripcionRepository.findAll();
     }
+
+    public void eliminarInscripcion(Integer id) {
+        inscripcionRepository.deleteById(id);
+    }
 }
